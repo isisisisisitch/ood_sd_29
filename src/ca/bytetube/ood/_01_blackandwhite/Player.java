@@ -1,0 +1,27 @@
+package ca.bytetube.ood._01_blackandwhite;
+
+public class Player {
+    private String name;
+    private GridPosition piece;
+
+    public Player(String name, GridPosition piece) {
+        this.name = name;
+        this.piece = piece;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public GridPosition getPiece() {
+        return piece;
+    }
+
+    public void setPiece(GridPosition piece) {
+        this.piece = piece;
+    }
+}
