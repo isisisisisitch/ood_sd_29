@@ -1,0 +1,6 @@
+package ca.bytetube.ood._14_elevator;
+
+enum RequestOrigin {
+    OUTSIDE,
+    INSIDE,
+}
