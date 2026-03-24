@@ -1,7 +1,6 @@
-package ca.bytetube.ood._25_lockersystem;
+package ca.bytetube.ood._15_lockersystem;
 
 import java.util.*;
-import java.util.function.Function;
 
 public class LockerSystem {
     private Map<String, Locker> allLockers;

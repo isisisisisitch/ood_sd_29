@@ -1,4 +1,4 @@
-package ca.bytetube.ood._25_lockersystem;
+package ca.bytetube.ood._15_lockersystem;
 
 public class Package {
     private int size;
