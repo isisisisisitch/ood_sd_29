@@ -1,7 +1,7 @@
 package ca.bytetube.ood._18_amazonproducteventrouter.services;
 
-import ca.bytetube._20_amazonproducteventrouter.DownstreamService;
-import ca.bytetube._20_amazonproducteventrouter.ProductEvent;
+import ca.bytetube.ood._18_amazonproducteventrouter.DownstreamService;
+import ca.bytetube.ood._18_amazonproducteventrouter.ProductEvent;
 
 public class PricingService implements DownstreamService {
     @Override

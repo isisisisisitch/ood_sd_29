@@ -1,8 +1,9 @@
 package ca.bytetube.ood._18_amazonproducteventrouter;
 
-import ca.bytetube._20_amazonproducteventrouter.services.CatalogService;
-import ca.bytetube._20_amazonproducteventrouter.services.InventoryService;
-import ca.bytetube._20_amazonproducteventrouter.services.PricingService;
+
+import ca.bytetube.ood._18_amazonproducteventrouter.services.CatalogService;
+import ca.bytetube.ood._18_amazonproducteventrouter.services.InventoryService;
+import ca.bytetube.ood._18_amazonproducteventrouter.services.PricingService;
 
 import java.util.Arrays;
 import java.util.Collections;
